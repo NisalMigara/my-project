@@ -1,3 +1,4 @@
+
 import random
 
 def generate_random_number():
@@ -8,4 +9,8 @@ def generate_random_number():
 # Generate a random number and print it to the console.
 random_number = generate_random_number()
 print(random_number)
+
+
+
+
 
